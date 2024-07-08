@@ -6,9 +6,9 @@ open workshop directory with vs code / cmd
 
 * Command 2 : workshop-env\Scripts\activate 
 
-* Command 3 : activate workshop-env
-
-* Command 4 : pip install -r requirements.txt 
+* Command 3 : pip install -r requirements.txt
+  
+* Command 4 : ipython kernel install --user --name=venv
 
 ## Example Code:
 1. Hello World
