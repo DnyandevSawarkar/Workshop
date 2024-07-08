@@ -1,0 +1,11 @@
+id,name,age,salary,department,salary_increase
+1,John Doe,28,50000,HR,55000.00000000001
+2,Jane Smith,34,60000,Engineering,66000.0
+3,Bob Johnson,45,70000,Sales,77000.0
+4,Alice Brown,29,55000,Engineering,60500.00000000001
+5,Charlie Black,25,48000,HR,52800.00000000001
+6,Emily White,32,62000,Marketing,68200.0
+7,Daniel Green,40,58000,Sales,63800.00000000001
+8,Laura Blue,38,63000,Engineering,69300.0
+9,Peter Red,50,72000,Marketing,79200.0
+10,Anne Purple,27,51000,HR,56100.00000000001
